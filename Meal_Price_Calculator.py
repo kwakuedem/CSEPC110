@@ -1,4 +1,4 @@
-# Additional Features: Friendly Summary
+#program to calculate the price of a meal.
 
 # prompt for the price of a child and an adult meal
 price_of_child_meal=float(input("\nWhat is the price of a child's meal? "))
