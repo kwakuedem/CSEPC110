@@ -1,3 +1,9 @@
+# Features that exceed requirements:
+# 1. Hidden choice in "LOOK AROUND" leads to discovering a key.
+# 2. More than two choices in some scenarios (e.g., library and basement).
+# 3. Multiple endings (winning, neutral, losing) provide diverse outcomes.
+# 4. Input flexibility with case-insensitive handling using strip() and upper().
+
 # Text-based adventure game: Haunted Mansion Adventure
 
 # Welcome message
@@ -77,8 +83,3 @@ elif choice1 == "LOOK AROUND":
 else:
     print("\nInvalid choice. A ghost appears and scares you away. Game over!")
 
-# Features that exceed requirements:
-# 1. Hidden choice in "LOOK AROUND" leads to discovering a key.
-# 2. More than two choices in some scenarios (e.g., library and basement).
-# 3. Multiple endings (winning, neutral, losing) provide diverse outcomes.
-# 4. Input flexibility with case-insensitive handling using strip() and upper().
