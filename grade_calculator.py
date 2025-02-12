@@ -19,3 +19,4 @@ if grade_score >= 70:
     print(f'Congratulations! you passed the class \n')
 else:
     print(f'Stay focused and you\'ll get it next time!\n')
+
